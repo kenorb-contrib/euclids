@@ -1,7 +1,790 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b50bbe5f-08d3-42c2-a67b-a2f25537cab2" name="Default" comment="" />
+    <list default="true" id="b50bbe5f-08d3-42c2-a67b-a2f25537cab2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/180px-Andi_Gutmans_1.jpg" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/180px-Andi_Gutmans_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/180px-Lerdorf.jpg" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/180px-Lerdorf.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/180px-PHP_Hello_World_screenshot.png" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/180px-PHP_Hello_World_screenshot.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_ajax_sample/images/ajax-loader.gif" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_ajax_sample/images/ajax-loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/images/amex.gif" afterPath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/images/amex.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/images/arrow-active.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/images/arrow-active.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/images/arrow-active.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/images/arrow-active.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/arrow-down.png" afterPath="$PROJECT_DIR$/sites/all/modules/token/arrow-down.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/arrow-right.png" afterPath="$PROJECT_DIR$/sites/all/modules/token/arrow-right.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/plugins/break/images/break.gif" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/plugins/break/images/break.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/plugins/break/images/breaktext.gif" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/plugins/break/images/breaktext.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/images/collapsible-collapsed.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/images/collapsible-collapsed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/images/collapsible-expanded.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/images/collapsible-expanded.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/images/delete.png" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/images/delete.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/images/diners.gif" afterPath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/images/diners.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/images/elv.gif" afterPath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/images/elv.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/images/expanded-options.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/images/expanded-options.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/images/go-bottom.png" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/images/go-bottom.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/images/go-down.png" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/images/go-down.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/images/go-top.png" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/images/go-top.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/images/go-up.png" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/images/go-up.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/help.png" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/images/icon-close-window.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/images/icon-close-window.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/images/icon-configure.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/images/icon-configure.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/images/icon-delete.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/images/icon-delete.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/images/icon-diamond.png" afterPath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/images/icon-diamond.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/images/icon-triangle.png" afterPath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/images/icon-triangle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/custom/icon_block_custom.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/custom/icon_block_custom.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/contact/icon_contact.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/contact/icon_contact.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_contrib_block.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_contrib_block.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_contrib_block_empty.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_contrib_block_empty.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_contrib_menu.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_contrib_menu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_contrib_page.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_contrib_page.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_activeforumtopics.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_activeforumtopics.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_authorinformation.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_authorinformation.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_block.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_block.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_block_empty.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_block_empty.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_block_menu.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_block_menu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_booknavigation.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_booknavigation.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_languageswitcher.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_languageswitcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_navigation.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_navigation.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_newforumtopics.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_newforumtopics.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_page.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_page.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_popularcontent.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_popularcontent.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_primarylinks.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_primarylinks.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_recentblogposts.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_recentblogposts.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_recentcomments.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_recentcomments.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_recentpoll.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_recentpoll.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_searchform.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_searchform.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_syndicate.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_syndicate.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_userlogin.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_userlogin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_whosnew.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_whosnew.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_whosonline.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/icon_core_whosonline.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/plugins/content_types/icon_example.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/plugins/content_types/icon_example.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/form/icon_form.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/form/icon_form.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node/icon_node.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node/icon_node.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/icon_node.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/icon_node.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_form/icon_node_form.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_form/icon_node_form.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/search/icon_search.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/search/icon_search.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/term_context/icon_term.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/term_context/icon_term.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/token/icon_token.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/token/icon_token.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/user_context/icon_user.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/user_context/icon_user.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/icon_views_block_legacy.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/icon_views_block_legacy.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/icon_views_page.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/icon_views_page.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/icon_views_page_legacy.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/icon_views_page_legacy.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/vocabulary_context/icon_vocabulary.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/vocabulary_context/icon_vocabulary.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/images/jcb.gif" afterPath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/images/jcb.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/images/laser.gif" afterPath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/images/laser.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_ajax_sample/images/loading-large.gif" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_ajax_sample/images/loading-large.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_ajax_sample/images/loading.gif" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_ajax_sample/images/loading.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/images/locked-other.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/images/locked-other.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/images/locked.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/images/locked.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/images/maestro.gif" afterPath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/images/maestro.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/images/mastercard.gif" afterPath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/images/mastercard.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/images/no-icon.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/images/no-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_ajax_sample/images/popups-border.png" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_ajax_sample/images/popups-border.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/help/screenshot-lg.png" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/help/screenshot-lg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/help/screenshot-sm.png" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/help/screenshot-sm.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/images/screenshot-small.png" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/images/screenshot-small.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/images/screenshot.png" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/images/screenshot.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/images/solo.gif" afterPath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/images/solo.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/plugins/break/images/spacer.gif" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/plugins/break/images/spacer.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/images/status-active.gif" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/images/status-active.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/images/status-active.gif" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/images/status-active.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/images/throbber.gif" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/images/throbber.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/images/visa-credit.gif" afterPath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/images/visa-credit.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/images/visa-debit.gif" afterPath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/images/visa-debit.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/images/visa-electron.gif" afterPath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/images/visa-electron.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/images/worldpay.png" afterPath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/images/worldpay.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/imagestyleflush/.gitignore" afterPath="$PROJECT_DIR$/sites/all/modules/imagestyleflush/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/.gitignore" afterPath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/API.txt" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/API.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/pathauto/API.txt" afterPath="$PROJECT_DIR$/sites/all/modules/pathauto/API.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/help/Access-Plugins--Determining-access-and-visibility.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/help/Access-Plugins--Determining-access-and-visibility.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/help/Argument-Plugins--Starting-at-the-beginning.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/help/Argument-Plugins--Starting-at-the-beginning.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/bundle_copy/CHANGELOG.txt" afterPath="$PROJECT_DIR$/sites/all/modules/bundle_copy/CHANGELOG.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/CHANGELOG.txt" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/CHANGELOG.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_access/CHANGELOG.txt" afterPath="$PROJECT_DIR$/sites/all/modules/content_access/CHANGELOG.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/CHANGELOG.txt" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/CHANGELOG.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/inline/CHANGELOG.txt" afterPath="$PROJECT_DIR$/sites/all/modules/inline/CHANGELOG.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/references/CHANGELOG.txt" afterPath="$PROJECT_DIR$/sites/all/modules/references/CHANGELOG.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/taxonomy_access/CHANGELOG.txt" afterPath="$PROJECT_DIR$/sites/all/modules/taxonomy_access/CHANGELOG.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/CHANGELOG.txt" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/CHANGELOG.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/help/Chaos-Tools--CTools--Plugin-Examples.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/help/Chaos-Tools--CTools--Plugin-Examples.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/help/Content-Type-Plugins--Displaying-content-using-a-context.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/help/Content-Type-Plugins--Displaying-content-using-a-context.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/help/Context-plugins--Creating-a--context--from-an-argument.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/help/Context-plugins--Creating-a--context--from-an-argument.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/securepages/FAQ.txt" afterPath="$PROJECT_DIR$/sites/all/modules/securepages/FAQ.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/INSTALL.txt" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/INSTALL.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/pathauto/INSTALL.txt" afterPath="$PROJECT_DIR$/sites/all/modules/pathauto/INSTALL.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/taxonomy_access/INSTALL.txt" afterPath="$PROJECT_DIR$/sites/all/modules/taxonomy_access/INSTALL.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/LICENSE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/bundle_copy/LICENSE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/bundle_copy/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/LICENSE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/LICENSE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_access/LICENSE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/content_access/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_taxonomy/LICENSE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/content_taxonomy/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/LICENSE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/LICENSE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/imagestyleflush/LICENSE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/imagestyleflush/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/inline/LICENSE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/inline/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/node_convert/LICENSE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/node_convert/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/LICENSE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/pathauto/LICENSE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/pathauto/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/references/LICENSE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/references/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/securepages/LICENSE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/securepages/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/taxonomy_access/LICENSE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/taxonomy_access/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/LICENSE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/token/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/LICENSE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/LICENSE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/help/Module-setup-and-hooks.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/help/Module-setup-and-hooks.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_access/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/content_access/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_taxonomy/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/content_taxonomy/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/imagestyleflush/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/imagestyleflush/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/inline/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/inline/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/node_convert/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/node_convert/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/pathauto/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/pathauto/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/references/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/references/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/securepages/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/securepages/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/taxonomy_access/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/taxonomy_access/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/token/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/README.txt" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/help/Relationships--Letting-one-context-take-us-to-another.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/help/Relationships--Letting-one-context-take-us-to-another.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/node_convert/TODO.txt" afterPath="$PROJECT_DIR$/sites/all/modules/node_convert/TODO.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/taxonomy_access/UPDATE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/taxonomy_access/UPDATE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_access/UPGRADE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/content_access/UPGRADE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/UPGRADE.txt" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/UPGRADE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/about-php.html" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/about-php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/help/about.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/help/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/about.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/help/about.html" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/help/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/action-links.theme.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/action-links.theme.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/advanced-help-popup.tpl.php" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/advanced-help-popup.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/advanced_help.help.ini" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/advanced_help.help.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/advanced_help.info" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/advanced_help.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/advanced_help.install" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/advanced_help.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/advanced_help.module" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/advanced_help.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/js/ajax-responder.js" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/js/ajax-responder.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/help/ajax.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/help/ajax.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/ajax.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/ajax.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/api-task-handler.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/api-task-handler.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/api-task-type.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/api-task-type.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/api-task.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/api-task.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/help/api.html" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/help/api.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/plugins/access/arg_length.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/plugins/access/arg_length.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/ascii_art_captcha.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/ascii_art_captcha.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/ascii_art_captcha.info" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/ascii_art_captcha.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/ascii_art_captcha.install" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/ascii_art_captcha.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/ascii_art_captcha.module" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/ascii_art_captcha.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_alphabet.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_alphabet.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_big.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_big.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_colossal.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_colossal.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_doh.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_doh.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_doom.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_doom.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_dotmatrix.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_dotmatrix.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_larry3d.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_larry3d.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_letters.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_letters.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_mini.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_mini.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_nancyj.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_nancyj.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_o8.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_o8.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_ogre.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_ogre.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_pebbles.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_pebbles.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_puffy.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_puffy.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_roman.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_roman.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_rounded.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_rounded.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_slant.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_slant.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_small.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_small.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_smslant.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_smslant.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_standard.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_standard.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_straight.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_straight.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_thick.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_thick.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_tinkertoy.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_tinkertoy.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_univers.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/ascii_art_captcha/fonts/ascii_art_captcha_font_univers.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/js/auto-submit.js" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/js/auto-submit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/block.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/block/block.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/blog.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/blog.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/blog_user.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/blog_user.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/node_convert/includes/book.node_convert.inc" afterPath="$PROJECT_DIR$/sites/all/modules/node_convert/includes/book.node_convert.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/relationships/book_parent.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/relationships/book_parent.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/plugins/break/break.css" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/plugins/break/break.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/plugins/break.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/plugins/break.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/plugins/break/break.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/plugins/break/break.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/bulk_export/bulk_export.css" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/bulk_export/bulk_export.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/bulk_export/bulk_export.info" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/bulk_export/bulk_export.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/bulk_export/bulk_export.js" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/bulk_export/bulk_export.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/bulk_export/bulk_export.module" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/bulk_export/bulk_export.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/bundle_copy/bundle_copy.api.php" afterPath="$PROJECT_DIR$/sites/all/modules/bundle_copy/bundle_copy.api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/bundle_copy/bundle_copy.info" afterPath="$PROJECT_DIR$/sites/all/modules/bundle_copy/bundle_copy.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/bundle_copy/bundle_copy.module" afterPath="$PROJECT_DIR$/sites/all/modules/bundle_copy/bundle_copy.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/css/button.css" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/css/button.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/plugins/break/langs/ca.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/plugins/break/langs/ca.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/cache.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/cache.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/cache.plugin-type.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/cache.plugin-type.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-datebox.tpl.php" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-datebox.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-day-overlap.tpl.php" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-day-overlap.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-day.tpl.php" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-day.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-item.tpl.php" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-item.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-mini.tpl.php" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-mini.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-month-col.tpl.php" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-month-col.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-month-multiple-entity.tpl.php" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-month-multiple-entity.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-month-row.tpl.php" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-month-row.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-month.tpl.php" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-month.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/css/calendar-overlap-no-scroll.css" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/css/calendar-overlap-no-scroll.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/css/calendar-overlap.css" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/css/calendar-overlap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-style.tpl.php" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-style.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-week-overlap.tpl.php" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-week-overlap.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-week.tpl.php" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-week.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-year.tpl.php" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/theme/calendar-year.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/css/calendar.css" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/css/calendar.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/calendar.info" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/calendar.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/calendar.install" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/calendar.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/calendar.module" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/calendar.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/includes/calendar.views.inc" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/includes/calendar.views.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/includes/calendar.views_template.inc" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/includes/calendar.views_template.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/js/calendar_colorpicker.js" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/js/calendar_colorpicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/css/calendar_multiday.css" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/css/calendar_multiday.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/js/calendar_overlap.js" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/js/calendar_overlap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/includes/calendar_plugin_row.inc" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/includes/calendar_plugin_row.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/includes/calendar_plugin_style.inc" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/includes/calendar_plugin_style.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/ckeditor-3.0.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/ckeditor-3.0.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/ckeditor.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/ckeditor.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/cleanstring.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/cleanstring.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/css/collapsible-div.css" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/css/collapsible-div.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/help/collapsible-div.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/help/collapsible-div.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/js/collapsible-div.js" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/js/collapsible-div.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/collapsible.theme.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/collapsible.theme.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/comment_reply.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/comment_reply.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/comment/comment_reply_form.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/comment/comment_reply_form.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/compare_users.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/compare_users.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/contact/contact.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/contact/contact.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/contact_site.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/contact_site.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/contact_user.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/contact_user.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/content.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/content.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/content.menu.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/content.menu.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/content.plugin-type.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/content.plugin-type.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/content.theme.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/content.theme.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_access/content_access.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/content_access/content_access.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_access/content_access.api.php" afterPath="$PROJECT_DIR$/sites/all/modules/content_access/content_access.api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_access/content_access.css" afterPath="$PROJECT_DIR$/sites/all/modules/content_access/content_access.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_access/content_access.info" afterPath="$PROJECT_DIR$/sites/all/modules/content_access/content_access.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_access/content_access.install" afterPath="$PROJECT_DIR$/sites/all/modules/content_access/content_access.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_access/content_access.module" afterPath="$PROJECT_DIR$/sites/all/modules/content_access/content_access.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_access/tests/content_access.test" afterPath="$PROJECT_DIR$/sites/all/modules/content_access/tests/content_access.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_access/tests/content_access_acl.test" afterPath="$PROJECT_DIR$/sites/all/modules/content_access/tests/content_access_acl.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_access/content_access_rules/content_access_rules.info" afterPath="$PROJECT_DIR$/sites/all/modules/content_access/content_access_rules/content_access_rules.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_access/content_access_rules/content_access_rules.module" afterPath="$PROJECT_DIR$/sites/all/modules/content_access/content_access_rules/content_access_rules.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_access/content_access_rules/content_access_rules.rules.inc" afterPath="$PROJECT_DIR$/sites/all/modules/content_access/content_access_rules/content_access_rules.rules.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_access/tests/content_access_test_help.php" afterPath="$PROJECT_DIR$/sites/all/modules/content_access/tests/content_access_test_help.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_taxonomy/content_taxonomy.info" afterPath="$PROJECT_DIR$/sites/all/modules/content_taxonomy/content_taxonomy.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_taxonomy/content_taxonomy.module" afterPath="$PROJECT_DIR$/sites/all/modules/content_taxonomy/content_taxonomy.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_taxonomy/content_taxonomy_autocomplete.info" afterPath="$PROJECT_DIR$/sites/all/modules/content_taxonomy/content_taxonomy_autocomplete.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_taxonomy/content_taxonomy_autocomplete.module" afterPath="$PROJECT_DIR$/sites/all/modules/content_taxonomy/content_taxonomy_autocomplete.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_taxonomy/includes/content_taxonomy_autocomplete_moderated_terms.inc" afterPath="$PROJECT_DIR$/sites/all/modules/content_taxonomy/includes/content_taxonomy_autocomplete_moderated_terms.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_taxonomy/content_taxonomy_migrate.info" afterPath="$PROJECT_DIR$/sites/all/modules/content_taxonomy/content_taxonomy_migrate.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/content_taxonomy/content_taxonomy_migrate.module" afterPath="$PROJECT_DIR$/sites/all/modules/content_taxonomy/content_taxonomy_migrate.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/context-access-admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/context-access-admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/help/context-access.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/help/context-access.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/context-admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/context-admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/help/context-arguments.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/help/context-arguments.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/help/context-content.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/help/context-content.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/help/context-context.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/help/context-context.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/help/context-relationships.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/help/context-relationships.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/context-task-handler.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/context-task-handler.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/css/context.css" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/css/context.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/help/context.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/help/context.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/context.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/context.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/context.menu.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/context.menu.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/context.plugin-type.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/context.plugin-type.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/tests/context.test" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/tests/context.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/context.theme.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/context.theme.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/context_exists.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/context_exists.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/js/cookieControl-4.1.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/js/cookieControl-4.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/js/cookieControl-5.1.min.js" afterPath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/js/cookieControl-5.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/modules/cookie_googleanalytics/cookie_googleanalytics.info" afterPath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/modules/cookie_googleanalytics/cookie_googleanalytics.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/modules/cookie_googleanalytics/cookie_googleanalytics.module" afterPath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/modules/cookie_googleanalytics/cookie_googleanalytics.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/modules/cookie_html/cookie_html.info" afterPath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/modules/cookie_html/cookie_html.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/modules/cookie_html/cookie_html.module" afterPath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/modules/cookie_html/cookie_html.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/cookiecontrol.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/cookiecontrol.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/cookiecontrol.info" afterPath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/cookiecontrol.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/cookiecontrol.install" afterPath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/cookiecontrol.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/cookiecontrol.module" afterPath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/cookiecontrol.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/theme/cookiecontrol.tpl.php" afterPath="$PROJECT_DIR$/sites/all/modules/cookiecontrol/theme/cookiecontrol.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/help/css.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/help/css.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/css.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/css.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/tests/css.test" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/tests/css.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/css_captcha/css_captcha.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/css_captcha/css_captcha.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/css_captcha/css_captcha.info" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/css_captcha/css_captcha.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/css_captcha/css_captcha.install" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/css_captcha/css_captcha.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/css_captcha/css_captcha.module" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/css_captcha/css_captcha.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_ajax_sample/css/ctools-ajax-sample.css" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_ajax_sample/css/ctools-ajax-sample.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_ajax_sample/js/ctools-ajax-sample.js" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_ajax_sample/js/ctools-ajax-sample.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools.api.php" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools.api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/css/ctools.css" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/css/ctools.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/drush/ctools.drush.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/drush/ctools.drush.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/tests/ctools.drush.sh" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/tests/ctools.drush.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/help/ctools.help.ini" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/help/ctools.help.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools.info" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools.install" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools.module" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/tests/ctools.plugins.test" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/tests/ctools.plugins.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/tests/plugins/cached/ctoolsCachedPluginArray.class.php" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/tests/plugins/cached/ctoolsCachedPluginArray.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/tests/plugins/cached/ctoolsCachedPluginArray2.class.php" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/tests/plugins/cached/ctoolsCachedPluginArray2.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/tests/plugins/not_cached/ctoolsNotCachedPluginArray.class.php" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/tests/plugins/not_cached/ctoolsNotCachedPluginArray.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/tests/plugins/not_cached/ctoolsNotCachedPluginArray2.class.php" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/tests/plugins/not_cached/ctoolsNotCachedPluginArray2.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_access_ruleset/plugins/export_ui/ctools_access_ruleset.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_access_ruleset/plugins/export_ui/ctools_access_ruleset.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_access_ruleset/ctools_access_ruleset.info" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_access_ruleset/ctools_access_ruleset.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_access_ruleset/ctools_access_ruleset.install" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_access_ruleset/ctools_access_ruleset.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_access_ruleset/ctools_access_ruleset.module" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_access_ruleset/ctools_access_ruleset.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_access_ruleset/plugins/export_ui/ctools_access_ruleset_ui.class.php" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_access_ruleset/plugins/export_ui/ctools_access_ruleset_ui.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_ajax_sample/ctools_ajax_sample.info" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_ajax_sample/ctools_ajax_sample.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_ajax_sample/ctools_ajax_sample.install" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_ajax_sample/ctools_ajax_sample.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_ajax_sample/ctools_ajax_sample.module" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_ajax_sample/ctools_ajax_sample.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_custom_content/plugins/export_ui/ctools_custom_content.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_custom_content/plugins/export_ui/ctools_custom_content.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_custom_content/ctools_custom_content.info" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_custom_content/ctools_custom_content.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_custom_content/ctools_custom_content.install" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_custom_content/ctools_custom_content.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_custom_content/ctools_custom_content.module" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_custom_content/ctools_custom_content.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_custom_content/plugins/export_ui/ctools_custom_content_ui.class.php" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_custom_content/plugins/export_ui/ctools_custom_content_ui.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/tests/ctools_export_test/ctools_export.test" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/tests/ctools_export_test/ctools_export.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/tests/ctools_export_test/ctools_export_test.default_ctools_export_tests.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/tests/ctools_export_test/ctools_export_test.default_ctools_export_tests.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/tests/ctools_export_test/ctools_export_test.info" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/tests/ctools_export_test/ctools_export_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/tests/ctools_export_test/ctools_export_test.install" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/tests/ctools_export_test/ctools_export_test.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/tests/ctools_export_test/ctools_export_test.module" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/tests/ctools_export_test/ctools_export_test.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/export_ui/ctools_export_ui.class.php" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/export_ui/ctools_export_ui.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/export_ui/ctools_export_ui.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/export_ui/ctools_export_ui.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/help/ctools_plugin_example.help.ini" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/help/ctools_plugin_example.help.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/ctools_plugin_example.info" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/ctools_plugin_example.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/ctools_plugin_example.module" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/ctools_plugin_example.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/ctools_plugin_example.pages_default.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/ctools_plugin_example.pages_default.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/tests/ctools_plugin_test.info" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/tests/ctools_plugin_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/tests/ctools_plugin_test.module" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/tests/ctools_plugin_test.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/custom-pages-access.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/custom-pages-access.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/custom-pages-arguments.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/custom-pages-arguments.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/custom-pages-menu.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/custom-pages-menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/custom-pages.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/custom-pages.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/custom/custom.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/custom/custom.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/plugins/break/langs/de.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/plugins/break/langs/de.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/help/dependent.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/help/dependent.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/dependent.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/dependent.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/js/dependent.js" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/js/dependent.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/css/dropbutton.css" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/css/dropbutton.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/help/dropbutton.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/help/dropbutton.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/js/dropbutton.js" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/js/dropbutton.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/dropbutton.theme.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/dropbutton.theme.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/css/dropdown.css" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/css/dropdown.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/help/dropdown.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/help/dropdown.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/js/dropdown.js" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/js/dropdown.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/dropdown.theme.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/dropdown.theme.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/plugins/break/langs/en.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/plugins/break/langs/en.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/contexts/entity.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/contexts/entity.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/entity_bundle.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/entity_bundle.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/entity_context/entity_field.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/entity_context/entity_field.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/entity_context/entity_field_extra.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/entity_context/entity_field_extra.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/entity_field_value.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/entity_field_value.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/form/entity_form_field.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/form/entity_form_field.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/relationships/entity_from_field.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/relationships/entity_from_field.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/relationships/entity_from_schema.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/relationships/entity_from_schema.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/arguments/entity_id.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/arguments/entity_id.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/plugins/break/langs/es.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/plugins/break/langs/es.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/plugins/access/example_role.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/plugins/access/example_role.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/css/export-ui-list.css" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/css/export-ui-list.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/help/export-ui.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/help/export-ui.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/export-ui.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/export-ui.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/export-ui.menu.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/export-ui.menu.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/export-ui.plugin-type.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/export-ui.plugin-type.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/help/export.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/help/export.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/export.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/export.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/cache/export_ui.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/cache/export_ui.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/fckeditor-2.6.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/fckeditor-2.6.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/fckeditor.config.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/fckeditor.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/fckeditor.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/fckeditor.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/fields.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/fields.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/foo_captcha/foo_capcha.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/foo_captcha/foo_capcha.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/foo_captcha/foo_captcha.info" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/foo_captcha/foo_captcha.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/foo_captcha/foo_captcha.install" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/foo_captcha/foo_captcha.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/foo_captcha/foo_captcha.module" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/foo_captcha/foo_captcha.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/help/form.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/help/form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/form/form.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/form/form.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/node_convert/includes/forum.node_convert.inc" afterPath="$PROJECT_DIR$/sites/all/modules/node_convert/includes/forum.node_convert.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/front.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/front.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/getting-started-create.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/getting-started-create.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/getting-started-custom-nodes.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/getting-started-custom-nodes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/getting-started-custom-vocabulary.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/getting-started-custom-vocabulary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/getting-started-members.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/getting-started-members.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/getting-started-page-list.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/getting-started-page-list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/getting-started.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/getting-started.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/help-icon.css" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help-icon.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/help-popup.css" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help-popup.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/help.css" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/help_example.help.ini" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/help_example.help.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help_example.info" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help_example.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help_example.module" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help_example.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/history.html" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/history.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/task_handlers/http_response.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/task_handlers/http_response.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/imagestyleflush/imagestyleflush.info" afterPath="$PROJECT_DIR$/sites/all/modules/imagestyleflush/imagestyleflush.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/imagestyleflush/imagestyleflush.module" afterPath="$PROJECT_DIR$/sites/all/modules/imagestyleflush/imagestyleflush.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/ini-file.html" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/ini-file.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/inline/inline.info" afterPath="$PROJECT_DIR$/sites/all/modules/inline/inline.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/inline/inline.module" afterPath="$PROJECT_DIR$/sites/all/modules/inline/inline.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/inline/inline.theme.inc" afterPath="$PROJECT_DIR$/sites/all/modules/inline/inline.theme.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/jquery.treeTable.css" afterPath="$PROJECT_DIR$/sites/all/modules/token/jquery.treeTable.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/jquery.treeTable.js" afterPath="$PROJECT_DIR$/sites/all/modules/token/jquery.treeTable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/jump-menu.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/jump-menu.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/js/jump-menu.js" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/js/jump-menu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/jwysiwyg.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/jwysiwyg.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/jwysiwyg.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/jwysiwyg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/language.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/language.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/imperial consultants/ldapemail/ldapemail.info" afterPath="$PROJECT_DIR$/sites/all/modules/imperial consultants/ldapemail/ldapemail.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/imperial consultants/ldapemail/ldapemail.module" afterPath="$PROJECT_DIR$/sites/all/modules/imperial consultants/ldapemail/ldapemail.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/lost_character_captcha/lost_character_captcha.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/lost_character_captcha/lost_character_captcha.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/lost_character_captcha/lost_character_captcha.info" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/lost_character_captcha/lost_character_captcha.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/lost_character_captcha/lost_character_captcha.install" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/lost_character_captcha/lost_character_captcha.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/lost_character_captcha/lost_character_captcha.module" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/lost_character_captcha/lost_character_captcha.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/markitup.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/markitup.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/markitup.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/markitup.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/math-expr.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/math-expr.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/math_captcha/math_captcha.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/math_captcha/math_captcha.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/math_captcha/math_captcha.challenge.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/math_captcha/math_captcha.challenge.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/math_captcha/math_captcha.info" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/math_captcha/math_captcha.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/math_captcha/math_captcha.install" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/math_captcha/math_captcha.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/math_captcha/math_captcha.module" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/math_captcha/math_captcha.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/tests/math_expression.test" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/tests/math_expression.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/tests/math_expression_stack.test" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/tests/math_expression_stack.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/menu.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/menu.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/css/modal.css" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/css/modal.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/help/modal.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/help/modal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/modal.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/modal.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/js/modal.js" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/js/modal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/nicedit.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/nicedit.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/nicedit.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/nicedit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/arguments/nid.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/arguments/nid.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/plugins/content_types/no_context_content_type.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/plugins/content_types/no_context_content_type.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/node.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/node.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node/node.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node/node.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/contexts/node.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/contexts/node.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/node_access.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/node_access.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/arguments/node_add.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/arguments/node_add.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/contexts/node_add_form.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/contexts/node_add_form.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_attachments.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_attachments.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_author.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_author.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_body.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_body.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_book_children.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_book_children.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_book_nav.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_book_nav.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_comment_form.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_comment_form.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_comments.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_comments.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_content.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_content.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/node_convert/node_convert.info" afterPath="$PROJECT_DIR$/sites/all/modules/node_convert/node_convert.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/node_convert/node_convert.install" afterPath="$PROJECT_DIR$/sites/all/modules/node_convert/node_convert.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/node_convert/node_convert.module" afterPath="$PROJECT_DIR$/sites/all/modules/node_convert/node_convert.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/node_convert/node_convert.rules.inc" afterPath="$PROJECT_DIR$/sites/all/modules/node_convert/node_convert.rules.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/node_convert/node_convert.test" afterPath="$PROJECT_DIR$/sites/all/modules/node_convert/node_convert.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_created.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_created.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/node_edit.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/node_edit.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/arguments/node_edit.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/arguments/node_edit.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/contexts/node_edit_form.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/contexts/node_edit_form.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/relationships/node_edit_form_from_node.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/relationships/node_edit_form_from_node.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_form/node_form_attachments.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_form/node_form_attachments.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_form/node_form_author.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_form/node_form_author.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_form/node_form_book.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_form/node_form_book.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_form/node_form_buttons.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_form/node_form_buttons.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_form/node_form_comment.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_form/node_form_comment.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_form/node_form_language.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_form/node_form_language.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_form/node_form_log.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_form/node_form_log.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_form/node_form_menu.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_form/node_form_menu.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_form/node_form_path.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_form/node_form_path.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_form/node_form_publishing.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_form/node_form_publishing.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_form/node_form_title.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_form/node_form_title.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/relationships/node_from_view.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/relationships/node_from_view.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/node_language.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/node_language.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_links.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_links.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/references/node_reference/node_reference.devel_generate.inc" afterPath="$PROJECT_DIR$/sites/all/modules/references/node_reference/node_reference.devel_generate.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/references/node_reference/node_reference.info" afterPath="$PROJECT_DIR$/sites/all/modules/references/node_reference/node_reference.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/references/node_reference/node_reference.install" afterPath="$PROJECT_DIR$/sites/all/modules/references/node_reference/node_reference.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/references/node_reference/node_reference.module" afterPath="$PROJECT_DIR$/sites/all/modules/references/node_reference/node_reference.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/references/node_reference/node_reference.test" afterPath="$PROJECT_DIR$/sites/all/modules/references/node_reference/node_reference.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/node_status.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/node_status.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_terms.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_terms.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_title.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_title.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/node_type.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/node_type.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_type_desc.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_type_desc.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_updated.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/node_context/node_updated.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/node_view.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/node_view.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/includes/nodequeue.actions.inc" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/includes/nodequeue.actions.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/includes/nodequeue.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/includes/nodequeue.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/nodequeue.css" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/nodequeue.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/help/nodequeue.help.ini" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/help/nodequeue.help.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/nodequeue.info" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/nodequeue.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/nodequeue.install" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/nodequeue.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/nodequeue.js" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/nodequeue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/nodequeue.module" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/nodequeue.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/includes/views/nodequeue.views.inc" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/includes/views/nodequeue.views.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/includes/views/nodequeue.views_default.inc" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/includes/views/nodequeue.views_default.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/nodequeue_dragdrop.js" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/nodequeue_dragdrop.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/nodequeue_generate.drush.inc" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/nodequeue_generate.drush.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/nodequeue_generate.info" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/nodequeue_generate.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/nodequeue_generate.module" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/nodequeue_generate.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/includes/views/nodequeue_handler_argument_subqueue_qid.inc" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/includes/views/nodequeue_handler_argument_subqueue_qid.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/includes/views/nodequeue_handler_field_all_queues.inc" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/includes/views/nodequeue_handler_field_all_queues.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/includes/views/nodequeue_handler_field_all_subqueues.inc" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/includes/views/nodequeue_handler_field_all_subqueues.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/includes/views/nodequeue_handler_field_links.inc" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/includes/views/nodequeue_handler_field_links.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/includes/views/nodequeue_handler_field_queue_tab.inc" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/includes/views/nodequeue_handler_field_queue_tab.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/includes/views/nodequeue_handler_filter_in_queue.inc" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/includes/views/nodequeue_handler_filter_in_queue.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/includes/views/nodequeue_handler_relationship_nodequeue.inc" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/includes/views/nodequeue_handler_relationship_nodequeue.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/addons/nodequeue_service/nodequeue_service.inc" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/addons/nodequeue_service/nodequeue_service.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/addons/nodequeue_service/nodequeue_service.info" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/addons/nodequeue_service/nodequeue_service.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/addons/nodequeue_service/nodequeue_service.module" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/addons/nodequeue_service/nodequeue_service.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/none.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/none.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/object-cache.cron.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/object-cache.cron.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/help/object-cache.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/help/object-cache.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/object-cache.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/object-cache.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/tests/object_cache.test" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/tests/object_cache.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/css/openwysiwyg.css" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/css/openwysiwyg.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/openwysiwyg.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/openwysiwyg.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/openwysiwyg.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/openwysiwyg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/js/page-list.js" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/js/page-list.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/theme/page-manager-edit-page.tpl.php" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/theme/page-manager-edit-page.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/css/page-manager.css" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/css/page-manager.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/page-task-type.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/page-task-type.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/page-wizard.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/page-wizard.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/page-wizard.menu.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/page-wizard.menu.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/page.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/page.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/page.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/page.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/page/page_actions.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/page/page_actions.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/page/page_breadcrumb.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/page/page_breadcrumb.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/page/page_feed_icons.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/page/page_feed_icons.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/page/page_help.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/page/page_help.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/page/page_logo.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/page/page_logo.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/page_manager.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/page_manager.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/page_manager.api.php" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/page_manager.api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/page_manager.help.ini" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/page_manager.help.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/page_manager.info" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/page_manager.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/page_manager.install" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/page_manager.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/page_manager.module" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/page_manager.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/theme/page_manager.theme.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/theme/page_manager.theme.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/cache/page_manager_context.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/cache/page_manager_context.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/page/page_messages.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/page/page_messages.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/page/page_primary_links.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/page/page_primary_links.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/page/page_secondary_links.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/page/page_secondary_links.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/page/page_site_name.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/page/page_site_name.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/page/page_slogan.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/page/page_slogan.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/page/page_tabs.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/page/page_tabs.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/page/page_title.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/page/page_title.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/plugins/panels.pages.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/plugins/panels.pages.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/node_convert/includes/panels_node.node_convert.inc" afterPath="$PROJECT_DIR$/sites/all/modules/node_convert/includes/panels_node.node_convert.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/path_visibility.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/path_visibility.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/pathauto/pathauto.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/pathauto/pathauto.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/pathauto/pathauto.api.php" afterPath="$PROJECT_DIR$/sites/all/modules/pathauto/pathauto.api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/pathauto/pathauto.inc" afterPath="$PROJECT_DIR$/sites/all/modules/pathauto/pathauto.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/pathauto/pathauto.info" afterPath="$PROJECT_DIR$/sites/all/modules/pathauto/pathauto.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/pathauto/pathauto.install" afterPath="$PROJECT_DIR$/sites/all/modules/pathauto/pathauto.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/pathauto/pathauto.js" afterPath="$PROJECT_DIR$/sites/all/modules/pathauto/pathauto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/pathauto/pathauto.module" afterPath="$PROJECT_DIR$/sites/all/modules/pathauto/pathauto.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/pathauto/pathauto.pathauto.inc" afterPath="$PROJECT_DIR$/sites/all/modules/pathauto/pathauto.pathauto.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/pathauto/pathauto.test" afterPath="$PROJECT_DIR$/sites/all/modules/pathauto/pathauto.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/pathauto/pathauto.tokens.inc" afterPath="$PROJECT_DIR$/sites/all/modules/pathauto/pathauto.tokens.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/perm.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/perm.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/php.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/php.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/phrase_captcha/phrase_captcha.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/phrase_captcha/phrase_captcha.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/phrase_captcha/phrase_captcha.info" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/phrase_captcha/phrase_captcha.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/phrase_captcha/phrase_captcha.install" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/phrase_captcha/phrase_captcha.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/phrase_captcha/phrase_captcha.module" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/phrase_captcha/phrase_captcha.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/tests/plugins/cached/plugin_array.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/tests/plugins/cached/plugin_array.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/tests/plugins/not_cached/plugin_array.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/tests/plugins/not_cached/plugin_array.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/tests/plugins/cached/plugin_array2.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/tests/plugins/cached/plugin_array2.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/tests/plugins/not_cached/plugin_array2.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/tests/plugins/not_cached/plugin_array2.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/tests/plugins/cached/plugin_array_dne.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/tests/plugins/cached/plugin_array_dne.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/tests/plugins/not_cached/plugin_array_dne.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/tests/plugins/not_cached/plugin_array_dne.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/plugins-admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/plugins-admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/help/plugins-api.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/help/plugins-api.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/help/plugins-creating.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/help/plugins-creating.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/help/plugins-implementing.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/help/plugins-implementing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/help/plugins.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/help/plugins.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/plugins.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/plugins.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/poll.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/poll.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/user_context/profile_fields.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/user_context/profile_fields.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/user_context/profile_fields_pane.tpl.php" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/user_context/profile_fields_pane.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/random_captcha_type/random_captcha_type.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/random_captcha_type/random_captcha_type.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/random_captcha_type/random_captcha_type.info" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/random_captcha_type/random_captcha_type.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/random_captcha_type/random_captcha_type.install" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/random_captcha_type/random_captcha_type.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/random_captcha_type/random_captcha_type.module" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/random_captcha_type/random_captcha_type.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/readme.md" afterPath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/references/references.feeds.inc" afterPath="$PROJECT_DIR$/sites/all/modules/references/references.feeds.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/references/references.info" afterPath="$PROJECT_DIR$/sites/all/modules/references/references.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/references/references.module" afterPath="$PROJECT_DIR$/sites/all/modules/references/references.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/references/views/references_handler_argument.inc" afterPath="$PROJECT_DIR$/sites/all/modules/references/views/references_handler_argument.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/references/views/references_handler_relationship.inc" afterPath="$PROJECT_DIR$/sites/all/modules/references/views/references_handler_relationship.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/references/views/references_plugin_display.inc" afterPath="$PROJECT_DIR$/sites/all/modules/references/views/references_plugin_display.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/references/views/references_plugin_row_fields.inc" afterPath="$PROJECT_DIR$/sites/all/modules/references/views/references_plugin_row_fields.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/references/views/references_plugin_style.inc" afterPath="$PROJECT_DIR$/sites/all/modules/references/views/references_plugin_style.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/registry.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/registry.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/plugins/contexts/relcontext.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/plugins/contexts/relcontext.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/plugins/content_types/relcontext_content_type.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/plugins/content_types/relcontext_content_type.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/plugins/relationships/relcontext_from_simplecontext.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/plugins/relationships/relcontext_from_simplecontext.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/arguments/rid.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/arguments/rid.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/role.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/role.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/css/ruleset.css" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/css/ruleset.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_access_ruleset/plugins/access/ruleset.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_access_ruleset/plugins/access/ruleset.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/search.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/search.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/search/search_form.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/search/search_form.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/search/search_result.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/search/search_result.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/securepages/securepages.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/securepages/securepages.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/securepages/securepages.info" afterPath="$PROJECT_DIR$/sites/all/modules/securepages/securepages.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/securepages/securepages.install" afterPath="$PROJECT_DIR$/sites/all/modules/securepages/securepages.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/securepages/securepages.module" afterPath="$PROJECT_DIR$/sites/all/modules/securepages/securepages.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/securepages/securepages.test" afterPath="$PROJECT_DIR$/sites/all/modules/securepages/securepages.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/security.html" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/security.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/cache/simple.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/cache/simple.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/plugins/contexts/simplecontext.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/plugins/contexts/simplecontext.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/plugins/arguments/simplecontext_arg.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/plugins/arguments/simplecontext_arg.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/plugins/content_types/simplecontext_content_type.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/ctools_plugin_example/plugins/content_types/simplecontext_content_type.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/site_language.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/site_language.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/help/smartqueue.html" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/help/smartqueue.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/smartqueue.info" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/smartqueue.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/smartqueue.install" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/smartqueue.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/nodequeue/smartqueue.module" afterPath="$PROJECT_DIR$/sites/all/modules/nodequeue/smartqueue.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/arguments/string.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/arguments/string.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/contexts/string.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/contexts/string.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/string_equal.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/string_equal.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/string_length.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/string_length.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/css/stylizer.css" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/css/stylizer.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/stylizer.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/stylizer.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/stylizer/plugins/export_ui/stylizer.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/stylizer/plugins/export_ui/stylizer.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/stylizer/stylizer.info" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/stylizer/stylizer.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/stylizer/stylizer.install" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/stylizer/stylizer.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/js/stylizer.js" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/js/stylizer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/stylizer/stylizer.module" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/stylizer/stylizer.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/stylizer.theme.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/stylizer.theme.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/stylizer/plugins/export_ui/stylizer_ui.class.php" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/stylizer/plugins/export_ui/stylizer_ui.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/syntax.html" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/syntax.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/taxonomy_access/tac_create.js" afterPath="$PROJECT_DIR$/sites/all/modules/taxonomy_access/tac_create.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/taxonomy_access/taxonomy_access.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/taxonomy_access/taxonomy_access.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/taxonomy_access/taxonomy_access.css" afterPath="$PROJECT_DIR$/sites/all/modules/taxonomy_access/taxonomy_access.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/taxonomy_access/taxonomy_access.info" afterPath="$PROJECT_DIR$/sites/all/modules/taxonomy_access/taxonomy_access.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/taxonomy_access/taxonomy_access.install" afterPath="$PROJECT_DIR$/sites/all/modules/taxonomy_access/taxonomy_access.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/taxonomy_access/taxonomy_access.module" afterPath="$PROJECT_DIR$/sites/all/modules/taxonomy_access/taxonomy_access.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/taxonomy_access/taxonomy_access.test" afterPath="$PROJECT_DIR$/sites/all/modules/taxonomy_access/taxonomy_access.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/term.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/term.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/arguments/term.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/arguments/term.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/contexts/term.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/contexts/term.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/term_context/term_description.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/term_context/term_description.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/relationships/term_from_node.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/relationships/term_from_node.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/relationships/term_from_view.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/relationships/term_from_view.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/term_has_parent.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/term_has_parent.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/term_context/term_list.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/term_context/term_list.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/term_parent.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/term_parent.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/relationships/term_parent.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/relationships/term_parent.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/term_view.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/term_view.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/term_vocabulary.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/term_vocabulary.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/arguments/terms.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/arguments/terms.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/contexts/terms.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/contexts/terms.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/relationships/terms_from_node.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/relationships/terms_from_node.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/text_captcha.css" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/text_captcha.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/text_captcha.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/text_captcha.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/calendar/theme/theme.inc" afterPath="$PROJECT_DIR$/sites/all/modules/calendar/theme/theme.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/theme.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/access/theme.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/css/tinymce-2.css" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/css/tinymce-2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/tinymce-2.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/tinymce-2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/css/tinymce-3.css" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/css/tinymce-3.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/tinymce-3.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/tinymce-3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/tinymce.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/tinymce.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/token.css" afterPath="$PROJECT_DIR$/sites/all/modules/token/token.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/token.drush.inc" afterPath="$PROJECT_DIR$/sites/all/modules/token/token.drush.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/token/token.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/token/token.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/contexts/token.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/contexts/token.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/token.info" afterPath="$PROJECT_DIR$/sites/all/modules/token/token.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/token.install" afterPath="$PROJECT_DIR$/sites/all/modules/token/token.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/token.js" afterPath="$PROJECT_DIR$/sites/all/modules/token/token.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/token.module" afterPath="$PROJECT_DIR$/sites/all/modules/token/token.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/token.pages.inc" afterPath="$PROJECT_DIR$/sites/all/modules/token/token.pages.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/token.test" afterPath="$PROJECT_DIR$/sites/all/modules/token/token.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/token.tokens.inc" afterPath="$PROJECT_DIR$/sites/all/modules/token/token.tokens.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/tests/token_test.info" afterPath="$PROJECT_DIR$/sites/all/modules/token/tests/token_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/token/tests/token_test.module" afterPath="$PROJECT_DIR$/sites/all/modules/token/tests/token_test.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/translation.html" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/translation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/node_convert/includes/uc_product.node_convert.inc" afterPath="$PROJECT_DIR$/sites/all/modules/node_convert/includes/uc_product.node_convert.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/css/uc_worldpay.css" afterPath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/css/uc_worldpay.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/uc_worldpay.info" afterPath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/uc_worldpay.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/uc_worldpay.install" afterPath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/uc_worldpay.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/uc_worldpay.js" afterPath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/uc_worldpay.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/uc_worldpay.module" afterPath="$PROJECT_DIR$/sites/all/modules/uc_worldpay/uc_worldpay.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/arguments/uid.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/arguments/uid.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/usage.html" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help_example/help/usage.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/contexts/user.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/contexts/user.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/relationships/user_category_edit_form_from_user.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/relationships/user_category_edit_form_from_user.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/contact/user_contact.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/contact/user_contact.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/user_edit.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/user_edit.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/arguments/user_edit.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/arguments/user_edit.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/contexts/user_edit_form.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/contexts/user_edit_form.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/relationships/user_from_node.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/relationships/user_from_node.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/relationships/user_from_view.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/relationships/user_from_view.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/arguments/user_name.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/arguments/user_name.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/user_context/user_picture.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/user_context/user_picture.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/user_context/user_profile.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/user_context/user_profile.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/references/user_reference/user_reference.devel_generate.inc" afterPath="$PROJECT_DIR$/sites/all/modules/references/user_reference/user_reference.devel_generate.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/references/user_reference/user_reference.info" afterPath="$PROJECT_DIR$/sites/all/modules/references/user_reference/user_reference.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/references/user_reference/user_reference.install" afterPath="$PROJECT_DIR$/sites/all/modules/references/user_reference/user_reference.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/references/user_reference/user_reference.module" afterPath="$PROJECT_DIR$/sites/all/modules/references/user_reference/user_reference.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/references/user_reference/user_reference.test" afterPath="$PROJECT_DIR$/sites/all/modules/references/user_reference/user_reference.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/user_context/user_signature.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/user_context/user_signature.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/user_view.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/plugins/tasks/user_view.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/using-advanced-help.html" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/using-advanced-help.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/utility.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/utility.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/variants.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/page_manager/help/variants.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/arguments/vid.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/arguments/vid.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/contexts/view.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/contexts/view.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/relationships/view_from_argument.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/relationships/view_from_argument.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/views.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/views.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/views.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/views.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/views_attachments.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/views_attachments.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/views_content.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/views_content.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/views_content.info" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/views_content.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/views_content.module" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/views_content.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/views/views_content.views.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/views/views_content.views.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/views/views_content_plugin_display_ctools_context.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/views/views_content_plugin_display_ctools_context.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/views/views_content_plugin_display_panel_pane.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/views/views_content_plugin_display_panel_pane.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/views/views_content_plugin_style_ctools_context.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/views/views_content_plugin_style_ctools_context.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/views_empty.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/views_empty.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/views_exposed.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/views_exposed.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/views_feed.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/views_feed.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/views_footer.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/views_footer.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/views_header.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/views_header.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/views_pager.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/views_pager.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/views_panes.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/views_panes.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/views_row.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/views_row.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/views_view.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/views_content/plugins/content_types/views_view.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/contexts/vocabulary.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/contexts/vocabulary.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/vocabulary_context/vocabulary_terms.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/plugins/content_types/vocabulary_context/vocabulary_terms.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/whizzywig-56.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/whizzywig-56.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/whizzywig-60.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/whizzywig-60.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/whizzywig.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/whizzywig.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/whizzywig.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/whizzywig.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/why-advanced-help.html" afterPath="$PROJECT_DIR$/sites/all/modules/advanced_help/help/why-advanced-help.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/css/wizard.css" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/css/wizard.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/help/wizard.html" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/help/wizard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/wizard.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/wizard.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/ctools/includes/wizard.theme.inc" afterPath="$PROJECT_DIR$/sites/all/modules/ctools/includes/wizard.theme.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/word_list_captcha/word_list_captcha.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/word_list_captcha/word_list_captcha.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/word_list_captcha/word_list_captcha.info" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/word_list_captcha/word_list_captcha.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/word_list_captcha/word_list_captcha.install" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/word_list_captcha/word_list_captcha.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/word_list_captcha/word_list_captcha.module" afterPath="$PROJECT_DIR$/sites/all/modules/captcha_pack/text_captcha/word_list_captcha/word_list_captcha.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/wymeditor.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/wymeditor.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/wymeditor.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/wymeditor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg-dialog-page.tpl.php" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg-dialog-page.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.admin.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.admin.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.api.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.api.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.api.php" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.dialog.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.dialog.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.info" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.init.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.init.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.install" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.module" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/wysiwyg.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/tests/wysiwyg.test" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/tests/wysiwyg.test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/tests/wysiwyg_test.info" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/tests/wysiwyg_test.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/tests/wysiwyg_test.install" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/tests/wysiwyg_test.install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/tests/wysiwyg_test.module" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/tests/wysiwyg_test.module" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/yui.inc" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/yui.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/yui.js" afterPath="$PROJECT_DIR$/sites/all/modules/wysiwyg/editors/js/yui.js" />
+    </list>
     <ignored path="euclid.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -54,10 +837,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sites/default/themes/euclid_2/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+            <state vertical-scroll-proportion="0.7453416" vertical-offset="0" max-vertical-offset="644">
               <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
               <folding />
             </state>
@@ -97,10 +880,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sites/default/themes/euclid_2/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3809524" vertical-offset="9150" max-vertical-offset="9780">
+            <state vertical-scroll-proportion="-8.888889" vertical-offset="9150" max-vertical-offset="9780">
               <caret line="626" column="13" selection-start-line="626" selection-start-column="13" selection-end-line="626" selection-end-column="13" />
               <folding />
             </state>
@@ -118,6 +901,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -159,7 +945,7 @@
     <option name="width" value="1254" />
     <option name="height" value="777" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -815,14 +1601,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sites/default/themes/euclid_2/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
-          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sites/default/themes/euclid_2/views-view-fields--home-page-slider--block.tpl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-15.833333" vertical-offset="400" max-vertical-offset="1020">
@@ -836,8 +1614,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/default/themes/euclid_2/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3809524" vertical-offset="9150" max-vertical-offset="9780">
+        <state vertical-scroll-proportion="-8.888889" vertical-offset="9150" max-vertical-offset="9780">
           <caret line="626" column="13" selection-start-line="626" selection-start-column="13" selection-end-line="626" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/themes/euclid_2/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7453416" vertical-offset="0" max-vertical-offset="644">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
           <folding />
         </state>
       </provider>
