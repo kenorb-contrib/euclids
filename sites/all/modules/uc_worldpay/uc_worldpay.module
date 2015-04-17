@@ -1,0 +1,510 @@
+<?php
+/**
+ * @file
+ * Integrates RBS WorldPay's redirected payment service with Ubercart.
+ */
+
+/**
+ * Implements hook_menu().
+ */
+function uc_worldpay_menu() {
+  $items['cart/worldpay/complete'] = array(
+    'title' => 'Order complete',
+    'page callback' => 'uc_worldpay_complete',
+    'access arguments' => array('access content'),
+    'type' => MENU_CALLBACK,
+  );
+
+  return $items;
+}
+
+/**
+ * Implements hook_uc_payment_method().
+ */
+function uc_worldpay_uc_payment_method() {
+  $methods[] = array(
+    'id' => 'worldpay',
+    'name' => t('RBS WorldPay'),
+    'title' => theme('uc_worldpay_cards'),
+    'desc' => t('Redirect to RBS WorldPay to pay by credit card.'),
+    'callback' => 'uc_payment_method_worldpay',
+    'weight' => 3,
+    'checkout' => TRUE,
+    'no_gateway' => TRUE,
+  );
+
+  return $methods;
+}
+
+/**
+ * Returns HTML for the payment options.
+ *
+ * @ingroup themeable
+ */
+function theme_uc_worldpay_cards() {
+  $path = drupal_get_path('module', 'uc_worldpay');
+  drupal_add_css($path . '/css/uc_worldpay.css');
+  $title = variable_get('uc_worldpay_method_title', t('Payments powered by RBS WorldPay'));
+  $output = theme('image', array('path' => $path . '/images/worldpay.png', 'width' => $title, 'height' => $title, 'alt' => array('class' => 'uc-worldpay-rbs-worldpay-logo')));
+
+  $available_payment_methods = _uc_worldpay_payment_card_types();
+  $enabled_payment_methods = variable_get('uc_worldpay_payment_methods', array('visa-debit', 'visa-credit', 'visa-electron', 'mastercard', 'maestro', 'amex', 'diners', 'elv', 'jcb', 'laser', 'solo', 'amex'));
+  foreach ($enabled_payment_methods as $method) {
+    $output .= theme('image', array('path' => $path . '/images/' . $method . '.gif', 'width' => $available_payment_methods[$method], 'height' => $available_payment_methods[$method], 'alt' => array('class' => 'uc-worldpay-rbs-card-type')));
+  }
+
+  return $output;
+}
+
+/**
+ * Payment method settings.
+ */
+function uc_payment_method_worldpay($op, &$order, $form = NULL, &$form_state = NULL) {
+  switch ($op) {
+    case 'cart-process':
+      $_SESSION['pay_method'] = $form_state['values']['panes']['payment']['payment_method'];
+      break;
+
+    case 'settings':
+      //drupal_add_js(drupal_get_path('module', 'uc_worldpay') . '/uc_worldpay.js');
+
+      // Setting array_filter filters the array removing items where the value
+      // is either '', NULL or FALSE.
+      // @todo Keep an eye on issues such as http://drupal.org/node/315176
+      $dynamic_payment_response_link = l(t('Dynamic Payment Response'),'http://www.worldpay.com/support/kb/bg/paymentresponse/Payment_Response.html#pr5500.html');
+      $worldpay_response_url = url('cart/worldpay/complete',array('absolute' => TRUE));
+      $form['array_filter'] = array(
+        '#type' => 'value',
+        '#value' => TRUE,
+      );
+      $form['help_text']['worldpay_settings'] = array(
+        '#type' => 'item',
+        '#prefix' => '<div class="help">',
+        '#markup' => t('<h4><strong>Installation instructions</strong></h4>
+          <p>For this module to work properly you must configure a few specific options in your RBS WorldPay account under <em>Installation Administration</em> settings:</p>
+          <ul><li><strong>Payment Response URL</strong> should either be set to: %response_url or configured for !dpr_link</li>
+          <li><strong>Payment Response enabled?</strong> should be <em>enabled</em></li>
+          <li><strong>Enable the Shopper Response</strong> should be <em>enabled</em> to get the Ubercart response page (optional)',
+          array(
+            '%response_url' => url($worldpay_response_url, array()),
+            '!dpr_link' => $dynamic_payment_response_link
+          )),
+        '#suffix' => '</div>',
+      );
+      $form['uc_worldpay_sid'] = array(
+        '#type' => 'textfield',
+        '#title' => t('Installation ID'),
+        '#default_value' => variable_get('uc_worldpay_sid', ''),
+        '#size' => 16,
+      );
+      $form['uc_worldpay_debug'] = array(
+        '#type' => 'select',
+        '#title' => t('Debug mode'),
+        '#multiple' => FALSE,
+        '#options' => array(
+          'log' => t('Log'),
+          'screen' => t('Screen'),
+          'both' => t('Both'),
+          'none' => t('None'),
+        ),
+        '#default_value' => variable_get('uc_worldpay_debug', 'log'),
+      );
+      $form['uc_worldpay_checkout_button'] = array(
+        '#type' => 'textfield',
+        '#title' => t('Order review submit button text'),
+        '#description' => t('Alter the text of the submit button on the review order page.'),
+        '#default_value' => variable_get('uc_worldpay_checkout_button', t('Submit Order')),
+      );
+      $form['payment_methods'] = array(
+        '#type' => 'fieldset',
+        '#title' => t('Payment methods'),
+        '#description' => t('Select the payment methods to display in checkout.'),
+        '#collapsible' => TRUE,
+        '#collapsed' => TRUE,
+      );
+      $form['payment_methods']['uc_worldpay_payment_methods'] = array(
+        '#type' => 'checkboxes',
+        '#default_value' => variable_get('uc_worldpay_payment_methods', array('visa-debit', 'visa-credit', 'visa-electron', 'mastercard', 'maestro', 'amex', 'diners', 'elv', 'jcb', 'laser', 'solo', 'amex')),
+        '#options' => _uc_worldpay_payment_card_types(),
+      );
+      $form['payment_parameters'] = array(
+        '#type' => 'fieldset',
+        '#title' => t('Payment parameters'),
+        '#description' => t('These options control what parameters are sent to RBS WorldPay when the customer submits the order.'),
+        '#collapsible' => TRUE,
+        '#collapsed' => TRUE,
+      );
+      $form['payment_parameters']['uc_worldpay_test'] = array(
+        '#type' => 'checkbox',
+        '#title' => t('Enable test mode'),
+        '#default_value' => variable_get('uc_worldpay_test', TRUE),
+      );
+      $form['payment_parameters']['uc_worldpay_test_result'] = array(
+        '#type' => 'select',
+        '#title' => t('Test mode result'),
+        '#description' => t('Specify the required transaction result when working in test mode.'),
+        '#default_value' => variable_get('uc_worldpay_test_result', 'AUTHORISED'),
+        '#options' => array(
+          'AUTHORISED' => 'Authorised',
+          'REFUSED' => 'Refused',
+          'ERROR' => 'Error',
+        ),
+        // If #disabled => TRUE is used, #states does not work properly.
+        '#attributes' => (!variable_get('uc_worldpay_test', TRUE)) ? array('disabled' => '') : array(),
+        '#states' => array(
+          'enabled' => array(
+            ':input[name="uc_worldpay_test"]' => array('checked' => TRUE),
+          ),
+        ),
+      );
+      $form['payment_parameters']['uc_worldpay_md5'] = array(
+        '#type' => 'textfield',
+        '#title' => t('MD5 secret word'),
+        '#description' => t('Secure your RBS Worldpay account so only your server can send transactions to RBS Worldpay. NB. This needs to be configured on your RBS Worldpay account first.'),
+        '#size' => 20,
+        '#maxlength' => 255,
+        '#default_value' => variable_get('uc_worldpay_md5', ''),
+      );      
+      $form['payment_parameters']['uc_worldpay_desc'] = array(
+        '#type' => 'checkbox',
+        '#title' => t('Submit the cart contents as the order description'),
+        '#description' => t('Setting this option to true will display the cart contents on the payment page. This could help to reassure customers of exactly what they are paying for.'),
+        '#default_value' => variable_get('uc_worldpay_desc', FALSE),
+      );
+      $form['payment_parameters']['uc_worldpay_cancel_order'] = array(
+        '#type' => 'checkbox',
+        '#title' => t('Cancel order in Ubercart if cancelled during payment'),
+        '#description' => t("If the customer cancels out of payment processing whilst on the RBS WorldPay server, remove the items from their cart and cancel their order in Ubercart. N.B. This option is greyed out if it's not available."),
+        '#default_value' => variable_get('uc_worldpay_cancel_order', FALSE),
+      );
+      $form['payment_parameters']['uc_worldpay_edit_contact'] = array(
+        '#type' => 'checkbox',
+        '#title' => t('Enable editing of contact details on the payment page.'),
+        '#default_value' => variable_get('uc_worldpay_edit_contact', TRUE),
+      );
+      $form['payment_parameters']['uc_worldpay_show_contact'] = array(
+        '#type' => 'checkbox',
+        '#title' => t('Show the contact details on the payment page.'),
+        '#default_value' => variable_get('uc_worldpay_show_contact', TRUE),
+        '#disabled' => variable_get('uc_worldpay_show_contact', TRUE),
+      );
+      $form['payment_parameters']['uc_worldpay_lang'] = array(
+        '#type' => 'textfield',
+        '#title' => t('Payment page language'),
+        '#description' => t('Specify the payment page language. Enter a 2-character ISO 639 language code, with optional regionalisation using 2-character country code separated by hyphen. For example "en-GB" specifies UK English.'),
+        '#size' => 8,
+        '#maxlength' => 6,
+        '#default_value' => variable_get('uc_worldpay_lang', 'en-GB'),
+      );
+      $form['dynamic_payment_response'] = array(
+        '#type' => 'fieldset',
+        '#title' => t('Dynamic payment response'),
+        '#description' => t('These options configure the RBS WorldPay !dpr_link functionality allowing multiple websites to use the same RBS Worldpay account.',
+          array(
+            '!dpr_link' => $dynamic_payment_response_link
+          )),
+        '#collapsible' => TRUE,
+        '#collapsed' => TRUE,
+      );
+      $form['dynamic_payment_response']['uc_worldpay_dpr_enabled'] = array(
+        '#type' => 'checkbox',
+        '#title' => t('Enabled'),
+        '#default_value' => variable_get('uc_worldpay_dpr_enabled', FALSE),
+      );
+      $form['dynamic_payment_response']['uc_worldpay_dpr_tag'] = array(
+        '#type' => 'textfield',
+        '#title' => t('Tag'),
+        '#description' => t('Specify the tag name to be used with the Dynamic Payment Response functionality. The tag name must start with "M_" or "MC_" and the RBS Worldpay <strong>Payment Response URL</strong> configured to match, for example "&lt;wpdisplay item=%current_tag&gt;"',array('%current_tag'=>variable_get('uc_worldpay_dpr_tag', 'MC_callback'))),
+        '#size' => 18,
+        '#maxlength' => 20,
+        '#default_value' => variable_get('uc_worldpay_dpr_tag', 'MC_callback'),
+      );
+      $form['dynamic_payment_response']['uc_worldpay_dpr_url'] = array(
+        '#type' => 'textfield',
+        '#title' => t('URL'),
+        '#description' => t('Specify the return URL after worldpay processing is complete.'),
+        '#size' => 50,
+        '#maxlength' => 200,
+        '#default_value' => variable_get('uc_worldpay_dpr_url', $worldpay_response_url),
+      );
+      $form['payment_urls'] = array(
+        '#type' => 'fieldset',
+        '#title' => t('Payment URLs'),
+        '#collapsible' => TRUE,
+        '#collapsed' => TRUE,
+      );
+      $form['payment_urls']['uc_worldpay_test_url'] = array(
+        '#type' => 'textfield',
+        '#title' => t('Test URL'),
+        '#description' => t('The RBS WorldPay test environment URL.'),
+        '#default_value' => variable_get('uc_worldpay_test_url', 'https://select-test.wp3.rbsworldpay.com/wcc/purchase'),
+        '#element_validate' => array('uc_worldpay_valid_url'),
+        '#required' => TRUE,
+      );
+      $form['payment_urls']['uc_worldpay_live_url'] = array(
+        '#type' => 'textfield',
+        '#title' => t('Live URL'),
+        '#description' => t('The RBS WorldPay live environment URL.'),
+        '#default_value' => variable_get('uc_worldpay_live_url', 'https://secure.wp3.rbsworldpay.com/wcc/purchase'),
+        '#element_validate' => array('uc_worldpay_valid_url'),
+        '#required' => TRUE,
+      );
+      return $form;
+  }
+}
+
+/**
+ * Implements hook_form_alter().
+ */
+function uc_worldpay_form_alter(&$form, &$form_state, $form_id) {
+  if ($form_id == 'uc_cart_checkout_review_form' && ($order_id = intval($_SESSION['cart_order'])) > 0) {
+    $order = uc_order_load($order_id);
+    if ($order->payment_method == 'worldpay') {
+      $form['actions']['submit']['#access'] = FALSE;
+      $form['#prefix'] = '<table id="uc-worldpay-review-table"><tr><td>';
+      // @TODO This is hackish. Consider using 'redirect' key of $methods in hook_uc_payment_method().
+      // See uc_2checkout.module.
+      $uc_worldpay_form = drupal_get_form('uc_worldpay_form', $order);
+      $form['#suffix'] = '</td><td>' . drupal_render($uc_worldpay_form) . '</td></tr></table>';
+    }
+  }
+}
+
+/**
+ * Processes the payment and completes the order.
+ */
+function uc_worldpay_complete($cart_id = 0) {
+  $cart_id = $_POST['cartId'];
+  $amount = $_POST['amount'];
+  $trans_status = $_POST['transStatus'];
+  $card_type = $_POST['cardType'];
+  $uc_cart_id = $_POST['M_uc_cart_id'];
+  global $base_url;
+
+  //drupal_add_html_head("<base href=\"$base_url/\" />\n", $key = NULL /* TODO Set this variable. */);
+  $element = array(
+    '#tag' => 'base',
+    '#attributes' => array(
+      'href' => $base_url,
+    ),
+  );
+  drupal_add_html_head($element, 'uc_worldpay_base');
+
+  // Stop orders being processed for orders from different hosts.
+  if ($_SERVER['HTTP_HOST'] != $_POST['M_http_host']) {
+    return t('There was an error with the transaction. The host did not match.');
+  }
+
+  // Log a new order notification to watchdog.
+  $log_entry = t('New order notification for order !order_id.', array('!order_id' => $cart_id));
+  $message = t('Returned parameters: <pre>!post</pre>', array('!post' => print_r($_POST, TRUE)));
+  $output = '';
+
+  // If debug mode is set appropriately, append the returned parameters to the
+  // log entry.
+  $debug = variable_get('uc_worldpay_debug', 'log');
+  if ($debug == 'log' || $debug == 'both') {
+    $log_entry .= '<br/>' . $message;
+  }
+  watchdog('uc_worldpay', $log_entry);
+
+  // If debug mode is set appropriately, print the returned parameters to the
+  // screen.
+  if ($debug == 'screen' || $debug == 'both') {
+    $output .= $message;
+  }
+
+  // If the order could not be loaded print an error message and exit.
+  if (!$order = uc_order_load($cart_id)) {
+    return t('The order could not be found and this transaction cannot continue.');
+  }
+
+  // If the status of the order is not 'in_checkout' print an error and exit.
+  if (uc_order_status_data($order->order_status, 'state') != 'in_checkout') {
+    return t('An error has occurred during payment. Please contact us to ensure your order has been submitted.');
+  }
+
+  if (is_numeric($amount)) {
+    switch ($trans_status) {
+      case 'Y':
+        $output .= t('Your order is complete and payment has been confirmed.');
+        $comment = t('Paid by !type, RBS WorldPay order #!order.', array('!type' => $card_type, '!order' => $cart_id));
+        uc_payment_enter($order->order_id, 'RBS WorldPay', $amount, 0, NULL, $comment);
+        break;
+
+      case 'C':
+        drupal_set_title(t('Order cancelled'));
+        $output .= t('Your order has been cancelled.');
+        drupal_set_message(t('Your order has been cancelled.'));
+        uc_order_comment_save($order->order_id, 0, t('Payment cancelled by user.'), 'admin');
+        if (variable_get('uc_worldpay_cancel_order', FALSE)) {
+          uc_order_update_status($order->order_id, 'canceled');
+          uc_cart_empty($uc_cart_id);
+        }
+        return $output;
+        break;
+
+      default:
+        $output .= t('Your order is pending.');
+        drupal_set_message(t('Your order will be processed as soon as your payment clears at RBS WorldPay.'));
+        uc_order_comment_save($order->order_id, 0, t('!type payment is pending approval at RBS WorldPay.', array('!type' => $card_type)), 'admin');
+        break;
+    }
+  }
+
+  $output = array(
+    'output' => array('#markup' => $output),
+    'uc_cart_complete' => uc_cart_complete_sale($order),
+  );
+  uc_cart_empty($uc_cart_id);
+
+  // Add a comment to let sales team know this came in through the site.
+  uc_order_comment_save($order->order_id, 0, t('Order created through website.'), 'admin');
+
+  return $output;
+}
+
+/**
+ * Implements hook_theme().
+ */
+function uc_worldpay_theme() {
+  return array(
+    'uc_worldpay_cards' => array(
+      'variables' => array(),
+    ),
+  );
+}
+
+/**
+ * Prepares and returns the form for POSTing to RBS WorldPay.
+ */
+function uc_worldpay_form($form, $form_state, $order) {
+  $form = array();
+
+  $country_data = uc_get_country_data(array('country_id' => $order->billing_country));
+  $country = $country_data[0]['country_iso_code_2'];
+
+  $cart_contents = uc_cart_get_contents();
+  foreach ($cart_contents as $item) {
+    $cart_items[] = $item->qty . 'x ' . $item->title;
+  }
+
+  $uc_worldpay_name = drupal_substr($order->billing_first_name . ' ' . $order->billing_last_name, 0, 128);
+
+  $data = array();
+  if (variable_get('uc_worldpay_test', TRUE)) {
+    $uc_worldpay_name = variable_get('uc_worldpay_test_result', 'AUTHORISED');
+    $data = array(
+      'testMode' => '100',
+    );
+  }
+
+  $data += array(
+    'instId' => variable_get('uc_worldpay_sid', ''),
+    'amount' => uc_currency_format($order->order_total, FALSE, FALSE, '.'),
+    'cartId' => $order->order_id,
+    'currency' => variable_get('uc_currency_code', 'USD'),
+    'name' => $uc_worldpay_name,
+    'address' => ($order->billing_street1 ? $order->billing_street1 . ',' : "\n")
+      . ($order->billing_street2 ? $order->billing_street2 . ',' : "\n")
+      . ($order->billing_city ? $order->billing_city : ''),
+    'state' => uc_get_zone_code($order->billing_zone),
+    'postcode' => $order->billing_postal_code,
+    'country' => $country,
+    'email' => $order->primary_email,
+    'tel' => $order->billing_phone,
+    'M_uc_cart_id' => uc_cart_get_id(),
+    'lang' => variable_get('uc_worldpay_lang', 'en-GB'),
+    'M_http_host' => $_SERVER['HTTP_HOST'],
+  );
+
+  if (variable_get('uc_worldpay_desc', FALSE)) {
+    $data += array(
+      'desc' => t("Cart contents: \n!cart", array('!cart' => implode(",\n", $cart_items))),
+    );
+  }
+
+  if (!variable_get('uc_worldpay_edit_contact', TRUE)) {
+    $data += array(
+      'fixContact' => '',
+    );
+  }
+
+  if (!variable_get('uc_worldpay_show_contact', TRUE)) {
+    $data += array(
+      'hideContact' => '',
+    );
+  }
+
+  if (variable_get('uc_worldpay_dpr_enabled', FALSE)) {
+	$dpr_tag = variable_get('uc_worldpay_dpr_tag','MC_callback');
+	$dpr_url = variable_get('uc_worldpay_dpr_url', url('cart/worldpay/complete',array('absolute' => TRUE)));
+	if (($dpr_tag > '') && ($dpr_url > '')) {
+	  $data += array(
+	    $dpr_tag => $dpr_url
+	  );
+	}
+  }
+
+  $uc_worldpay_md5 = variable_get('uc_worldpay_md5', '');
+  if (drupal_strlen($uc_worldpay_md5) > 0) {
+    $data += array(
+      'signatureFields' => 'currency:cartId:amount',
+      'signature' => md5($uc_worldpay_md5 . ':' . $data['currency'] . ':' . $data['cartId'] . ':' . $data['amount']),
+    );
+  }
+
+
+  foreach ($data as $name => $value) {
+    $form[$name] = array(
+      '#type' => 'hidden',
+      '#value' => $value,
+    );
+  }
+
+  $test_server = variable_get('uc_worldpay_test_url', 'https://select-test.wp3.rbsworldpay.com/wcc/purchase');
+  $live_server = variable_get('uc_worldpay_live_url', 'https://secure.wp3.rbsworldpay.com/wcc/purchase');
+  $form['#action'] = (variable_get('uc_worldpay_test', TRUE)) ? $test_server : $live_server;
+  $form['submit'] = array(
+    '#type' => 'submit',
+    '#name' => '',
+    '#value' => variable_get('uc_worldpay_checkout_button', t('Submit Order')),
+  );
+
+  return $form;
+}
+
+/**
+ * Returns the supported payment card types.
+ *
+ * @return
+ *   An array of supported card types.
+ */
+function _uc_worldpay_payment_card_types() {
+  return array(
+    'visa-credit' => t('Visa Credit'),
+    'visa-debit' => t('Visa Debit'),
+    'visa-electron' => t('Visa Electron'),
+    'solo' => t('Solo'),
+    'mastercard' => t('Mastercard'),
+    'maestro' => t('Maestro'),
+    'amex' => t('American Express'),
+    'jcb' => t('JCB'),
+    'diners' => t('Diners'),
+    'laser' => t('Laser'),
+    'elv' => t('ELV'),
+  );
+}
+
+/**
+ * Validates a supplied URL using valid_url().
+ */
+function uc_worldpay_valid_url($element, &$form_state) {
+  if ($form_state['values']['op'] == t('Save configuration')) {
+    if (isset($form_state['values'][$element['#name']])) {
+      if (!valid_url($form_state['values'][$element['#name']], TRUE)) {
+        form_set_error($element['#name'], t('The format of the !title appears to be invalid.', array('!title' => $element['#title'])));
+      }
+    }
+  }
+}

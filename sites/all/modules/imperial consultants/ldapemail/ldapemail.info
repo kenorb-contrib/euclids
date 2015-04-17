@@ -1,0 +1,8 @@
+name = LDAP email address lookup
+description = Updates email address on user login, as College LDAP server does not provide mail atribute in schema
+core = 7.x
+package = Imperial Consultants
+dependencies[] = ldap_servers
+version = 7.x-1.0
+;files[] = example.test
+;configure = admin/config/content/example

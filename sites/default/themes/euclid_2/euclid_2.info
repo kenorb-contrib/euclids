@@ -1,0 +1,16 @@
+name = Euclid #2
+description = New theme for EUCLID webiste
+version = VERSION
+core = 7.x
+engine = phptemplate
+stylesheets[all][] = css/flexslider.css
+stylesheets[all][] = css/style.css
+
+regions[slider] = Slider
+regions[content] = Content
+regions[sidebar_first] = Left sidebar
+regions[sidebar_second] = Right sidebar
+regions[footer] = Footer
+
+scripts[] = js/jquery.flexslider-min.js
+scripts[] = js/script.js

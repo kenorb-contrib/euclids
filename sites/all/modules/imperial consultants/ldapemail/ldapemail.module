@@ -1,0 +1,82 @@
+<?php
+
+// The standard authentication LDAP server does not supply the email 
+// address attribute. As a result, just prior to a user's record being
+// saved we must perform a lookup of the email using the LDAP
+// server "addressbook.ic.ac.uk". 
+
+function ldapemail_user_presave(&$edit, $account, $category) {
+//	drupal_set_message('ldapemail_user_presave - begin');
+//	drupal_set_message('ldapemail_user_presave <h2>$edit</h2><pre>'.var_export($edit,true).'</pre><br/><h2>$account</h2><pre>'.var_export($account,true).'</pre>' );
+
+	require_once(drupal_get_path('module','ldap_servers').'/ldap_servers.inc');
+
+	$lookupservername = variable_get('ldap_lookup_server', '');
+	if ($lookupservername > '') {
+
+		// Work out what is the username to use - different depending on 
+		// whether or not we are dealing with a new user or with an existing 
+		// user record being updated.
+		$username = (isset($account->name)) ? $account->name : $edit['name']; 
+
+		// Just read the data from the LDAP server and if successful apply
+		// it to the user record. Note: Values set here bypass the duplicate 
+		// initial checking of mail addresses.
+//		drupal_set_message('ldapemail_user_presave <h2>$lookupservername</h2><pre>'.var_export($lookupservername,true).'</pre>' );
+		$ldapdata = _ldap_servers_get_user_ldap_data( $username, $lookupservername );
+//		drupal_set_message('ldapemail_user_presave <h2>$ldapdata</h2><pre>'.var_export($ldapdata,true).'</pre>' );
+		if ($ldapdata) {
+			$edit['mail'] = $ldapdata['mail']; 
+		} // if
+
+	} // if
+	
+//	drupal_set_message('ldapemail_user_presave - end');
+}
+
+/*
+function ldapemail_user_insert( &$edit, $account, $category ) {
+	drupal_set_message('ldapemail_user_insert - end');
+}
+*/
+
+function ldapemail_menu() {
+	$items = array(); 
+	$items['admin/config/people/ldap_email'] = array(
+		'title' => 'LDAP email',
+		'description' => 'Configuration of the Imperial Consultants LDAP email hook code',
+		'page callback' => 'drupal_get_form',
+		'page arguments' => array('ldapemail_config_form'),
+		'access arguments' => array('access administration pages'),
+		'type' => MENU_NORMAL_ITEM,
+	);
+	return $items;
+} 
+
+function ldapemail_config_form( $form, &$form_state ) {
+
+	// Show list of configured LDAP servers
+	$form['ldap_lookup_server'] = array(
+		'#type' => 'select',
+		'#title' => t('Mail lookup server name'),
+		'#options' => array(''),
+		'#default_value' => variable_get('ldap_lookup_server', ''),
+		'#description' => t('The name of the LDAP server as defined in the LDAP Configuration server settings configuration page.<br/>A secondary LDAP search will be performed against this server after a user logs in to collect the user\'s email address.'),
+		'#required' => TRUE,
+	);
+	$ldap_servers = ldap_servers_get_servers(NULL, 'all');
+//	drupal_set_message('ldapemail_config_form <h2>ldap_servers</h2><pre>'.var_export($ldap_servers,true).'</pre>' );
+	foreach ($ldap_servers as $servername=>$server) {
+//		drupal_set_message('ldapemail_config_form <h2>servername</h2><pre>'.var_export($servername,true).'</pre>' );
+		$form['ldap_lookup_server']['#options'][$servername] = $servername;
+	} // foreach
+
+/*
+ * 	foreach (module_implements('user_presave') as $module) {
+		$function = $module . '_user_presave';
+		drupal_set_message('ldapemail_config_form - "' . $function . '"' );
+	} // foreach
+*/
+
+	return system_settings_form($form);
+}

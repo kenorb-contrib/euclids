@@ -1,0 +1,16 @@
+<?php
+/**
+ * @file
+ * Install/uninstall and update functions for the uc_worldpay module.
+ */
+
+/**
+ * Implements hook_uninstall().
+ */
+function uc_worldpay_uninstall() {
+  // Remove all uc_worldpay variables.
+  db_delete('variable')
+    ->condition('name', 'uc_worldpay%', 'LIKE')
+    ->execute();
+}
+

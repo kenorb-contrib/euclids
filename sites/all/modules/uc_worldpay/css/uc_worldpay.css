@@ -1,0 +1,20 @@
+/**
+ * @file
+ * CSS for the uc_worldpay module.
+ */
+
+.uc-worldpay-rbs-worldpay-logo {
+  position: relative;
+  top: 6px;
+}
+
+.uc-worldpay-rbs-card-type {
+  margin-right: 4px;
+  position: relative;
+  top: 5px;
+}
+
+#uc-worldpay-review-table {
+  display: inline;
+  padding-top: 1em;
+}

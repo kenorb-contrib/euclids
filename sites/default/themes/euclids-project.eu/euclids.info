@@ -1,0 +1,7 @@
+name = Euclids
+description = Euclids Project Website theme
+screenshot = screenshot.png
+version = VERSION
+core = 7.x
+engine = phptemplate
+settings[shortcut_module_link] = 1
